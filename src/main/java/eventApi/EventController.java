@@ -1,7 +1,7 @@
-package hello;
+package eventApi;
 
-import hello.dto.EventData;
-import hello.dto.EventId;
+import eventApi.dto.EventData;
+import eventApi.dto.EventId;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

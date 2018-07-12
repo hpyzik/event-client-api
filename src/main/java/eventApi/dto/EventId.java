@@ -1,4 +1,4 @@
-package hello.dto;
+package eventApi.dto;
 
 public class EventId {
     private String id;
